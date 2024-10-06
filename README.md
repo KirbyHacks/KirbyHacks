@@ -1,12 +1,12 @@
 # Welcome to My GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;Web%20Designer;C%23%20Programmer;Offensive%20Security%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;Web%20Designer;C%23%20Programmer;Backend%20Master;Bypass%20Expert;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 ## About Me
 
-Hello there! I'm a passionate developer with a keen interest in Python, web development, and offensive security. I love exploring new technologies and constantly improving my skills. Whether it's crafting efficient code or securing systems, I'm always up for a challenge!
+Hello there! I'm a passionate developer with a keen interest in Python, web development, and offensive security. I specialize in backend development and bypass techniques. Whether it's crafting efficient code, securing systems, or finding creative solutions to complex problems, I'm always up for a challenge!
 
 ## My Skills and Tools
 
@@ -15,6 +15,8 @@ Hello there! I'm a passionate developer with a keen interest in Python, web deve
 In addition to these, I'm also proficient in:
 - 🛠 Database management
 - 🔒 Offensive security techniques
+- 💻 Backend development (Expert level)
+- 🔓 Bypass techniques (Expert level)
 
 ## GitHub Stats
 
@@ -25,6 +27,10 @@ In addition to these, I'm also proficient in:
 ## My Projects
 
 Here are some of my notable projects:
-1. [Project 1](https://github.com/YourGitHubUsername/project1) - Brief description
-2. [Project 2](https://github.com/YourGitHubUsername/project2) - Brief description
-3. [Project 3](https://github.com/YourGitHubUsername/project3) - Brief description
+1. [KirbyHacks/primordial-api](https://github.com/KirbyHacks/primordial-api) - A powerful API for various hacking tools and techniques.
+2. [Delorean-BY](https://github.com/KirbyHacks/Delorean-BY) - ...
+
+## Connect with Me
+
+- 📧 Email: rlow@kys.gay
+- 🎮 Discord: rlow._
