@@ -21,7 +21,7 @@ In addition to these, I'm also proficient in:
 ## My Projects
 
 Here are some of my notable projects:
-1. [KirbyHacks/primordial-api](https://github.com/KirbyHacks/rlow.lol) - My Bio page! Aesthetic, fast and amazingly fast
+1. [KirbyHacks/rlow.lol](https://github.com/KirbyHacks/rlow.lol) - My Bio page! Aesthetic, fast and amazingly fast
 2. [Delorean-BY](https://github.com/KirbyHacks/Delorean-BY) - ...
 
 ## Connect with Me
