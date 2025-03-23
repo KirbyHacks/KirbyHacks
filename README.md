@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My Page!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;Web%20Designer;C%23%20Programmer;Backend%20Master;Bypass%20Expert;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=f75c7e&vCenter=true&pause=1000&size=22" />
@@ -10,27 +10,21 @@ Hello there! I'm a passionate developer with a keen interest in Python, web deve
 
 ## My Skills and Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,cs)
+![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,cs,vim,linux,nodejs,deno,postgres,ts,tailwind)
 
 In addition to these, I'm also proficient in:
 - 🛠 Database management
 - 🔒 Offensive security techniques
-- 💻 Backend development (Expert level)
-- 🔓 Bypass techniques (Expert level)
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirbyHacks&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirbyHacks&layout=compact&theme=radical)
+- 💻 Backend development
+- 🔓 Bypass techniques
 
 ## My Projects
 
 Here are some of my notable projects:
-1. [KirbyHacks/primordial-api](https://github.com/KirbyHacks/primordial-api) - A powerful API for various hacking tools and techniques.
+1. [KirbyHacks/primordial-api](https://github.com/KirbyHacks/rlow.lol) - My Bio page! Aesthetic, fast and amazingly fast
 2. [Delorean-BY](https://github.com/KirbyHacks/Delorean-BY) - ...
 
 ## Connect with Me
 
-- 📧 Email: rlow@kys.gay
-- 🎮 Discord: rlow._
+- 📧 Email: rlow@kys.gay / i@rlow.lol
+- 🎮 Discord: rlow.lol
