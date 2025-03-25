@@ -22,7 +22,7 @@ In addition to these, I'm also proficient in:
 
 Here are some of my notable projects:
 1. [KirbyHacks/rlow.lol](https://github.com/KirbyHacks/rlow.lol) - My Bio page! Aesthetic, fast and amazingly fast
-2. [Delorean-BY](https://github.com/KirbyHacks/Delorean-BY) - ...
+2. [KirbyHacks/TRW-Wrapper](https://github.com/KirbyHacks/trw-wrapper) - TRW API Official Wrapper
 
 ## Connect with Me
 
