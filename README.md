@@ -23,8 +23,9 @@ In addition to these, I'm also proficient in:
 Here are some of my notable projects:
 1. [KirbyHacks/rlow.lol](https://github.com/KirbyHacks/rlow.lol) - My Bio page! Aesthetic, fast and amazingly fast
 2. [KirbyHacks/TRW-Wrapper](https://github.com/KirbyHacks/trw-wrapper) - TRW API Official Wrapper
+3. [KirbyHacks/TRW-WrapperJS](https://github.com/KirbyHacks/trw-wrapper.js) - TRW API Official Wrapper (NPM Package)
 
 ## Connect with Me
 
-- 📧 Email: rlow@kys.gay / i@rlow.lol
+- 📧 Email: rlow@kys.gay / i@rlow.lol / darien@kys.gay
 - 🎮 Discord: rlow.lol
