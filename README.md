@@ -9,12 +9,19 @@
 Hello there! I'm a passionate developer with a keen interest in Python, web development, and offensive security. I specialize in backend development and bypass techniques. Whether it's crafting efficient code, securing systems, or finding creative solutions to complex problems, I'm always up for a challenge!
 
 ## Web Development Skills
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+  </a>
+</p>
 
 ## Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,astro" />
+  </a>
+</p>
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,astro)
 
 In addition to these, I'm also proficient in:
 - 🛠 Database management
