@@ -31,7 +31,7 @@ Right now I'm learning React and trying to become a better Full Stack developer.
 <img src="https://cdn.jsdelivr.net/gh/kirbyhacks/rlow-assets@main/div.png" width="50%">
 </p>
 <p style="text-align: center;">
-<img src="https://capsule-render.vercel.app/api?text=My Skills&animation=fadeIn&fontColor=ffff&type=waving&color=_custom_gradient&height=100" style="border-radius: 20px;" /></p>
+<img src="https://capsule-render.vercel.app/api?text=My%20Skills&animation=fadeIn&fontColor=ffff&type=waving&color=_custom_gradient&height=100" style="border-radius: 20px;" /></p>
 
 <table align="center">
 <tr>
