@@ -27,7 +27,7 @@ Right now I'm learning React and trying to become a better Full Stack developer.
 </p>
 <br clear="left">
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/kirbyhacks/rlow-assets@main/div.png">
+<img src="https://encrypted-bytes.com/download/48d6207496cac5be8764832e51f61c4e9c37e86c7cbbc04e9556ba86fad4d846/4917ef2ad706b79f69d8b421a0d9271d/f9050fb4be73d9159415e4f2cd1baccd4b8258d3931206d99cc2520704ea5ca68f37d9a087287e344523b88dee53ca288b1ed31be95bc518b66e44482f93ec5c278a4b288b9cfdb5dae402e917d2a9ce/0e30d082428005f063c52ae84e30e8f4">
 <p style="text-align: center;">
 <img src="https://capsule-render.vercel.app/api?text=My%20Skills&animation=fadeIn&fontColor=ffff&type=waving&color=_custom_gradient&height=100" style="border-radius: 20px;" /></p>
 </div>
