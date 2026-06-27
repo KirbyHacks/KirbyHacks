@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/kirbyhacks/rlow-assets@main/header.jpg" alt="header banner" style="border-radius: 20px; max-width: 100%;">
   <p><strong>"Trust me, I got nothing for you other than love"</strong></p>
-</div>
 
 <h1 align="center">Hi there 🕊️, I'm rLøw</h1>
 
@@ -16,6 +15,7 @@
 <img src="https://img.shields.io/badge/hours_wasted-+1000-black">
 <img src="https://img.shields.io/badge/aura-NaN-black">
 </p>
+</div>
 <img align="left" src="https://cdn.jsdelivr.net/gh/kirbyhacks/rlow-assets@main/vinyl.gif"> <p>
 
 Started programming at **9 years old** making Discord bots.
